@@ -21,4 +21,4 @@ In addition to the changes in spec, this generation has also undergone a complet
 ## Other notes
 Again this project is experimental, and not all things will work perfectly. This project has been an interesing journey, but unless you really want a linux handheld, I would suggest buying a current android handheld. If you are interested in how these devices are designed however, I encourage you check out the schematics above. Most of all, this has been fun, and its cool to have total freedom to design something yourself, and if you're thinking about doing someting similar, I highly recommend the experience.
 
-This ones internally similar to the dspi 2 so I reused the copy :)
+Note: This ones internally very similar to the dspi 2 so I reused some of the description :)
