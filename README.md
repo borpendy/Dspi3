@@ -1,5 +1,5 @@
 
-<s> # DSpi3
+# DSpi3
 # System overview
 The DSpi3 is the 3rd generation of the DS-pi project, a project with the goal of creating an open source dual screen gaming handheld, aimed at DS and 3DS emulation. This iteration features a full outer redesign, with significant reductions in width, as well as a fully redesigned cooling system. The screen configuration has also been upgraded again, now featuring dual 720p displays.
 
