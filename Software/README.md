@@ -1,1 +1,1 @@
-
+Im putting togather a default pi image with some emulators pre built (melon ds, borked3ds). Also for anyone using their own install of Rasbian, the config file must be altered to enable DSI, DAC. The config file is included above.
