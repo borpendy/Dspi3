@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://imgur.com/a/lWSOjDz" alt="Lower DSpi" width="60%">
+  <img src="https://i.imgur.com/6mRgdle.jpeg" alt="Lower DSpi" width="60%">
 </div>
