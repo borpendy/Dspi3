@@ -1,0 +1,2 @@
+@rebooot python3 /home/will/Documents/startup.py
+@reboot pinctrl FAN_PWM op dl
